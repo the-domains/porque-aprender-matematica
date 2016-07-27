@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-07-27T21:02:51.636Z'
+datePublished: '2016-07-27T21:43:26.636Z'
+sourcePath: _posts/2016-07-27-o-infinito-e-um-numero-ou-varios.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/09f1b58e-6070-47ac-bf2e-a279d17bab79.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T21:02:37.307Z'
+dateModified: '2016-07-27T21:43:25.978Z'
 title: O infinito é um número (ou vários)
 publisher: {}
 description: >-
   Georg Cantor nos levou a um ponto que nunca imaginamos poderíamos chegar.
   Cantor nos ensinou que o infinito é um numero. Ou melhor, vários números.
 starred: false
-sourcePath: _posts/2016-07-27-o-infinito-e-um-numero-ou-varios.md
 inFeed: true
 hasPage: false
 inNav: false
