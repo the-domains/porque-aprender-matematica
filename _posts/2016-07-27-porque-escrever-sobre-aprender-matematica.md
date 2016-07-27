@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-27T20:45:42.412Z'
+datePublished: '2016-07-27T20:46:12.437Z'
 sourcePath: _posts/2016-07-27-porque-escrever-sobre-aprender-matematica.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d567c56-da05-4a5d-8d5a-9b56c5cd6f87.jpg
 author: []
 via: {}
-dateModified: '2016-07-27T20:45:41.600Z'
+dateModified: '2016-07-27T20:46:10.365Z'
 title: Porque escrever sobre “aprender Matemática”
 publisher: {}
 description: >-
@@ -29,7 +29,6 @@ Infelizmente uma parte importante dos artigos e videos que encontro estão em in
 
 Um presente para o meu pai.
 
-_Young man, in mathematics you don't understand things. You just get used to them._  
-- John von Neumann
+_"Young man, in mathematics you don't understand things. You just get used to them." _- John von Neumann
 
 http://mathystuff.com/
