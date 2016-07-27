@@ -11,6 +11,9 @@ color:
     - '#5E5A59'
     - '#0D0D0D'
 layout_spectrum: 0.33255108492448926
+author:
+  name: Fabio Santiago
+  email: ffsantiago@gmail.com
 name: Porque aprender Matematica
 title: A beleza da Matemática
 description: O que deveriam ensinar na escola
