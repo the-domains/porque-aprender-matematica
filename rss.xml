@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Porque aprender Matematica]]></title>
+        <description><![CDATA[Porque aprender Matematica]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jul 2016 20:41:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Porque escrever sobre “aprender Matemática”]]></title>
+            <description><![CDATA[<article><h1>Porque escrever sobre “aprender Matemática”</h1><p>Este site nasce de uma serie de conversas com o meu pai sobre Matemática. Cada dia que passava, a descoberta de um novo numero ou um novo "fato”matemático torna toda a materia ainda mais interessante.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/508693a9-3bf6-4cfb-8764-2371c3b8aa62.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d567c56-da05-4a5d-8d5a-9b56c5cd6f87.jpg</link>
+            <guid isPermaLink="false">17a107e7-7c52-461f-83c5-5ae8843fbaa8</guid>
+            <pubDate>Wed, 27 Jul 2016 20:41:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
