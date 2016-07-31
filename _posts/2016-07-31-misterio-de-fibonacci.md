@@ -1,18 +1,18 @@
 ---
+datePublished: '2016-07-31T17:11:51.386Z'
+sourcePath: _posts/2016-07-31-misterio-de-fibonacci.md
+isBasedOnUrl: 'https://youtu.be/Nu-lW-Ifyec'
 author:
   - name: Numberphile
     url: 'https://www.youtube.com/user/numberphile'
     avatar: {}
-datePublished: '2016-07-31T12:40:56.849Z'
 via: {}
+dateModified: '2016-07-31T17:11:50.058Z'
 title: Misterio de Fibonacci
-isBasedOnUrl: 'https://youtu.be/Nu-lW-Ifyec'
 publisher: {}
 description: >-
   Uma simples sequencia, que se repete tantas vezes na natureza. Parece que esta
   sequencia antecede a própria matemática....
-sourcePath: _posts/2016-07-31-misterio-de-fibonacci.md
-dateModified: '2016-07-31T12:40:41.853Z'
 starred: false
 inFeed: true
 hasPage: false
